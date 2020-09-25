@@ -1,1 +1,1 @@
-# youtube-autoplay
+# youtube-auto-restart
